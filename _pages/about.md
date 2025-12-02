@@ -26,7 +26,7 @@ My research interests include:
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 A paper of mine has been accepted by journal **_International Journal of Hydrogen Energy_** (IF = 8.3). 
+- *2025.11*: &nbsp;🎉🎉 A paper of mine has been accepted by journal **International Journal of Hydrogen Energy** (IF = 8.3). 
 
 # 📝 Publications 
 
@@ -49,8 +49,8 @@ My research interests include:
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2026.06*, Xi'an Jiaotong University, M.Eng. in Electrical Engineering, supervised by <a href="https://gr.xjtu.edu.cn/en/web/wukai/1" target="_blank">Prof. Kai Wu</a> and <a href="https://gr.xjtu.edu.cn/en/web/zhoujun/home" target="_blank">A/Prof. Jun Zhou</a>. 
+- *2019.09 - 2023.06*, Xi'an Jiaotong University, B.E. in Electrical Engineering and Automation, supervised by <a href="https://gr.xjtu.edu.cn/en/web/lxjia/1" target="_blank">Prof. Lixin Jia</a>. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
