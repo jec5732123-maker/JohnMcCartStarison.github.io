@@ -28,6 +28,14 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
+      {% if author.scopus %}
+      <li>
+        <a href="{{ author.scopus }}" target="_blank">
+          <img src="{{ '/assets/img/scopus.svg' | relative_url }}" class="svg-icon" />
+          Scopus
+        </a>
+      </li>
+      {% endif %}
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}
