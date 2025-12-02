@@ -34,11 +34,10 @@
       {% if author.scopus %}
       <li>
         <a href="{{ author.scopus }}" target="_blank">
-          <img src="{{ '/assets/img/sc.svg' | relative_url }}" class="svg-icon" />
+          <img src="{{ '/assets/img/sc.svg' | relative_url }}" class="svg-icon" width="40" />
           Scopus
         </a>
       </li>
-      <img src="assets/img/scopus.png" alt="Scopus" style="width: 40px; height: auto;" />
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
