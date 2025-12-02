@@ -30,18 +30,12 @@ My research interests include:
 
 # 📝 Publications 
 ## Journal Papers
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Chengze Ji**, Jun Zhou, Xuhui Song, Ruhuan Li, Cunxin Li, Yuan Gao, Ke Deng, Zekai Chen, Shuo Wu, Wei Shen, Kai Wu. Dynamic modeling and optimal control of switching modes in reversible solid oxide cells for integrated electric-hydrogen energy system[J]. Applied Energy, 2025, 397: 126270. [PDF](https://doi.org/10.1016/j.apenergy.2025.126270)
 ## Conference Papers
 ## Patents
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2025.11* National Scholarship. 
