@@ -46,7 +46,6 @@ My research interests include:
 
 # 🎖 Honors and Awards
 - *2025.11* National Scholarship. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2023.09 - 2026.06*, Xi'an Jiaotong University, M.Eng. in Electrical Engineering, supervised by <a href="https://gr.xjtu.edu.cn/en/web/wukai/1" target="_blank">Prof. Kai Wu</a> and <a href="https://gr.xjtu.edu.cn/en/web/zhoujun/home" target="_blank">Assoc. Prof. Jun Zhou</a>. 
